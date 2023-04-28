@@ -1,5 +1,4 @@
-### Hi there 👋
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devinpadron1&theme=default&layout=compact)
+### Welcome to my page
 
 <!--
 **devinpadron1/devinpadron1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
